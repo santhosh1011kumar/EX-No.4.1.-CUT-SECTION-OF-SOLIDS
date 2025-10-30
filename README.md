@@ -41,10 +41,8 @@ To create the solid model from given drawing and section the solid model
 ![image](https://user-images.githubusercontent.com/113594316/198825351-b514a4e7-06af-4ee0-8197-e8267749f8a8.png)
 
 ## OUTPUT:
-
-
-<img width="1319" height="938" alt="image" src="https://github.com/user-attachments/assets/710edb55-e103-44e7-b4e0-4db15680bdf9" />
-
+**
+<img width="1384" height="973" alt="image" src="https://github.com/user-attachments/assets/2bc09921-492b-4275-9bd7-b1b8c5a19b3b" />
 
 
 ## RESULT:
